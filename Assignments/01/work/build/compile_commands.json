@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/mnt/e/OneDrive/桌面/GAMES101/Assignments/01/code/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -isystem /usr/include/opencv4  -g   -std=gnu++17 -o CMakeFiles/Rasterizer.dir/main.cpp.o -c /mnt/e/OneDrive/桌面/GAMES101/Assignments/01/code/main.cpp",
+  "file": "/mnt/e/OneDrive/桌面/GAMES101/Assignments/01/code/main.cpp"
+},
+{
+  "directory": "/mnt/e/OneDrive/桌面/GAMES101/Assignments/01/code/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -isystem /usr/include/opencv4  -g   -std=gnu++17 -o CMakeFiles/Rasterizer.dir/rasterizer.cpp.o -c /mnt/e/OneDrive/桌面/GAMES101/Assignments/01/code/rasterizer.cpp",
+  "file": "/mnt/e/OneDrive/桌面/GAMES101/Assignments/01/code/rasterizer.cpp"
+},
+{
+  "directory": "/mnt/e/OneDrive/桌面/GAMES101/Assignments/01/code/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -isystem /usr/include/opencv4  -g   -std=gnu++17 -o CMakeFiles/Rasterizer.dir/Triangle.cpp.o -c /mnt/e/OneDrive/桌面/GAMES101/Assignments/01/code/Triangle.cpp",
+  "file": "/mnt/e/OneDrive/桌面/GAMES101/Assignments/01/code/Triangle.cpp"
+}
+]

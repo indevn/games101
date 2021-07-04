@@ -1,0 +1,3 @@
+/mnt/e/OneDrive/桌面/GAMES101/Assignments/02/work/build/CMakeFiles/rebuild_cache.dir
+/mnt/e/OneDrive/桌面/GAMES101/Assignments/02/work/build/CMakeFiles/edit_cache.dir
+/mnt/e/OneDrive/桌面/GAMES101/Assignments/02/work/build/CMakeFiles/Rasterizer.dir
